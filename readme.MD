@@ -58,7 +58,7 @@
 
 ## Ejemplo de Prueba
 
-Aquí tienes un ejemplo básico de una prueba utilizando Playwright:
+Ejemplo básico de una prueba utilizando Playwright:
 
 ```javascript
 const { test, expect } = require('@playwright/test');
